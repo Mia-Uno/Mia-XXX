@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mia-XXX
 - 👀 I’m interested in Front End
-- 🌱 I’m currently learning HTML CSS JAVA
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT
 
 
 <!---
