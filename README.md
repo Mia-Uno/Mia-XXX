@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mia-XXX
+- 👋 Hi, I’m @Mia-Uno
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT
 
